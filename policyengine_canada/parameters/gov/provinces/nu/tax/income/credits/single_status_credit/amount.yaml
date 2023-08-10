@@ -1,5 +1,4 @@
-description: Nunavut provides this amount to person with single status
-values:
+description: Nunavut credits this amount under the single status credit.
   2022-01-01: 16_862
 metadata:
   unit: currency-CAD
